@@ -60,7 +60,7 @@ UI design, and making things that probably didn't need to be made.
   <img src="https://img.shields.io/badge/Email-hasnainzaaheer48@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=A5D6FF" />
 </a>
 
-<a href="www.linkedin.com/in/hasnain-zaheer-6b431941a">
+<a href="https://www.linkedin.com/in/hasnain-zaheer-6b431941a/">
   <img src="https://img.shields.io/badge/LinkedIn-Hasnain%20Zaheer-161B22?style=for-the-badge&logo=linkedin&logoColor=A5D6FF" />
 </a>
 </div>
