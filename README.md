@@ -9,6 +9,9 @@
   <img src="./light_mode.svg" width="985">
 </picture>
 
+<details>
+   <summary>Read more</summary>
+
 ***
 I am a Computer Science student who spends an unreasonable amount
 of time turning ideas into projects.
@@ -52,6 +55,9 @@ UI design, and making things that probably didn't need to be made.
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-161B22?style=for-the-badge&logo=adobeillustrator&logoColor=FFA657)
 
 ***
+
+</details>
+
 ### Let's Connect
 
 <div align="center">
