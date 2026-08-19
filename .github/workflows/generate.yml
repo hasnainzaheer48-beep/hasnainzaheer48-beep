@@ -45,7 +45,7 @@ jobs:
       - name: Generate GitHub profile
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BIRTHDAY: "2006-08-15"
+          BIRTHDAY: "2006-08-31"
         run: |
           python generate.py
 
