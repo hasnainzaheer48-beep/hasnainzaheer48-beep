@@ -938,7 +938,7 @@ def svg_overwrite(
         root,
         "age_data",
         age_data,
-        51
+        48
     )
 
     tree.write(
