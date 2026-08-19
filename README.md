@@ -9,6 +9,18 @@
   <img src="./light_mode.svg" width="985">
 </picture>
 
+***
+I am a Computer Science student who spends an unreasonable amount
+of time turning ideas into projects.
+
+I'm learning full-stack development, backend engineering, and
+database design while building with React, Node.js, Express, and
+PostgreSQL.
+
+Outside the stack, I like experimenting with game development,
+UI design, and making things that probably didn't need to be made.
+***
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=FFA657)
